@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KevinSadigh
-- 👀 I’m interested in Computers and software as well as finance 
-- 🌱 I’m currently learning software engineering at UofT
+- 👀 I’m interested in Software Development, Cryptography, Computer Hardware as well as Finance and DeFi
+- 🌱 I’m currently Studying Computer Engineering specializing in Software at the University of Toronto
 - 📫 How to reach me kevinsadigh7@gmail.com
 
 <!---
